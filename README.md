@@ -1,4 +1,4 @@
-https://discord.gg/hNcCWBfXSq
+https://discord.gg/n9jdP7Atcs
 # rust-external-cheat
 Rust External Cheat
 
